@@ -7,4 +7,6 @@ scikit-learn==1.6.0
 joblib==1.4.2
 python-dotenv==1.0.1
 python-multipart==0.0.20
+pandas==2.1.4 
+seaborn==0.13.2
 
